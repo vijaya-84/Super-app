@@ -50,7 +50,7 @@ function Register() {
       console.log("Form submitted successfully");
     }
   };
-  
+     //form
     return (
       <div>
         <div>
