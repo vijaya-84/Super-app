@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    color: white;
+}
+/* .left-half {
+    width: 50%;
+    float: left;
+    padding: 20px;
+  }
+.right-half {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    box-sizing: border-box; */
+  
+ form{
+    margin-top: -7%;
+    margin-left: 990px;
+    align-items: left;
+    text-align: left;
+}  
+h1{
+    text-align: center;
+    margin-left: -35%;
+    color: #72DB73;
+    padding-top: 10%;
+    font-family: 'Single Day', cursive;
+}
+p{
+    text-align: center;
+    margin-left: -35%;
+}
+h4{
+    text-align: center;
+    margin-left: -35%;
+}
+
+Input{
+    height: 30px;
+    /* width: 340px;  */
+    padding-left: 3%;
+    background-color: #292929;
+   color:  #7C7C7C;
+   border:none;
+   padding-top: 0%;
+   padding-bottom: 2%;
+   margin-bottom: 15px;
+   margin-top: px;
+
+}
+
+button{
+    height: 39px;
+    /* width: 355px; */
+    padding-left: 3%;
+    
+    border:none;
+    border-radius: 2.1rem;
+    color:white;
+    background-color: #72DB73;
+    font-family: 'Roboto', sans-serif;
+    
+font-weight: 400;
+font-size: 16px;
+line-height: 108.69%;
+letter-spacing: 0.02em;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #7C7C7C;
+}
+ol{
+    font-family: 'Roboto', sans-serif;
+    list-style-type: none;
+    font-size: 10px;
+    margin-top:-35px;
+    margin-left: -3%;
+
+}
+img{
+    
+    height: 700px;
+    width: 779.383px;
+    /* margin-top: -590px; */
+}
+h2{
+    margin-top: -170.92px;
+margin-left: 5%;
+    font-weight: 900;
+font-size: 45px;
+line-height: 141.69%;
+
+
+letter-spacing: 0.02em;
+}
+h3{
+    margin-left: 5%;
+    margin-top: -650.92px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 108.69%;
+
+letter-spacing: 0.02em;
+
+
+}
+.button2{
+    margin-left: 100%;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+    color: #72DB73;
+    text-decoration:none;
+}

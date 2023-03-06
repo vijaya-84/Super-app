@@ -1,0 +1,11 @@
+.left-half {
+    width: 50%;
+    float: left;
+    padding: 20px;
+  }
+  .right-half {
+    width: 50%;
+    float: right;
+    padding: 20px;
+    box-sizing: border-box;
+  }
